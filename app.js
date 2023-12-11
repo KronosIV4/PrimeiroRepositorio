@@ -18,7 +18,6 @@ function geraNumeroAleatorio(){
     } else {
 
         listaDeNumerosSorteados.push(numeroGerado);
-        console.log(listaDeNumerosSorteados);
         return numeroGerado;
     }
 
